@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GitHub repository of a Molecular Medical Biology PhD candidate who is passionate about advancing research in the field. This repository serves as a platform to share code, data, and documentation related to ongoing projects and learning experiences, particularly in the context of using the R programming language.
+Welcome to the GitHub repository of a MSc student in medical biotechnology who is passionate about advancing research in the field. This repository serves as a platform to share code, data, and documentation related to ongoing projects and learning experiences, particularly in the context of using the R programming language.
 
 ## About the Scientist
 
