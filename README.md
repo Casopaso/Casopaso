@@ -1,4 +1,4 @@
-# Molecular Medical Biology PhD Candidate
+# Molecular Medical Biology MSc student
 
 ## Overview
 
